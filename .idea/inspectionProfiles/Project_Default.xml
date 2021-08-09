@@ -1,6 +1,10 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+    <inspection_tool class="AliAccessStaticViaInstance" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AliEqualsAvoidNull" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AliMissingOverrideAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AliWrapperTypeEquality" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="AlibabaVarargsParameter" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="TOP_LEVEL_CLASS_OPTIONS">
@@ -33,5 +37,6 @@
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
       <option name="myAdditionalJavadocTags" value="date" />
     </inspection_tool>
+    <inspection_tool class="MapOrSetKeyShouldOverrideHashCodeEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   </profile>
 </component>
