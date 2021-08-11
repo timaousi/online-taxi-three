@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/api-passenger/pom.xml" />
         <option value="$PROJECT_DIR$/internal-common/pom.xml" />
+        <option value="$PROJECT_DIR$/service-sms/pom.xml" />
+        <option value="$PROJECT_DIR$/service-verification-code/pom.xml" />
       </list>
     </option>
   </component>
